@@ -1,4 +1,4 @@
-# 👾 Olá, eu sou o **[Luiz Da Rosa]**! 👾
+# 👾 Olá, eu sou **Luiz Filipe Rosa**! 👾
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por Tecnologia, Anime e Jogos. 🌸 Aqui você vai encontrar meus projetos, contribuições e tudo o que me motiva a continuar aprendendo e progamando! 💻✨
 
