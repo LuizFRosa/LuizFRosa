@@ -29,8 +29,6 @@ _Descrição do projeto. Explique de forma criativa o que esse projeto oferece e
 
 ![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=LuizFRosa&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-> **Dica**: Essa imagem mostra suas contribuições no GitHub! Para gerar a sua, basta alterar o parâmetro `SEU-USUARIO` pelo seu nome de usuário no GitHub.
-
 ---
 
 ### 💫 **Entre em Contato**
