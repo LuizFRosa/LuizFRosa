@@ -7,10 +7,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ### 🌟 **Sobre mim**
 
 - **Nome**: [Luiz Filipe Da Rosa Mantini]
-- **Tecnologias que uso**: 
-  - JavaScript | TypeScript | React | Node.js
-  - Python | Django | Flask
-  - SQL | MongoDB | Redis
 - **Habilidades de Iniciante**: CyberSegurity | Desenvolvedor Backend | Entusiasta de IA 🤖
 
 ---
