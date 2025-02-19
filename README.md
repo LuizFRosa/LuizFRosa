@@ -22,10 +22,10 @@ _Descrição do projeto. Um breve resumo do que o projeto faz, por que ele é in
 
 ![Imagem do Projeto 1](https://tecnogeek.com.br/wp-content/uploads/2023/06/Douluo-Dalu.jpg)
 
-#### ⚡ [**Nome do Projeto 2**](https://i.ytimg.com/vi/bsDX_AGWTAY/maxresdefault.jpg)
+#### ⚡ [**Nome do Projeto 2**](link-para-o-repositorio)
 _Descrição do projeto. Explique de forma criativa o que esse projeto oferece e como ele pode ser útil para outras pessoas ou para o aprendizado._
 
-![Imagem do Projeto 2](URL-da-imagem)
+![Imagem do Projeto 2](https://i.ytimg.com/vi/bsDX_AGWTAY/maxresdefault.jpg)
 
 ---
 
